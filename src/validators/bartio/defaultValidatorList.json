@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+    "id": "0x2Ecd703B119C3FbFb2ec4b9FFa6d8756f7De9428",
+    "logoURI": "https://res.cloudinary.com/dah5s50tj/image/upload/v1717928066/3f032a74a49c38b9382090fb16b1f605_360_360_ceyhhe.jpg",
+    "name": "MantiCore",
+    "description": "Secure and reliable individual PoS/PoW validator. Best uptime and 24/7 support.",
+    "website": "https://manticore.team",
+    "twitter": "https://twitter.com/MantiCoreNodes"
+},
   ]
 }
